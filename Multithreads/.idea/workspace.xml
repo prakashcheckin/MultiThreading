@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c52798d1-b1ac-4136-a06f-40ce0ee0539d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dMr13DbsDkKT4Cq3iz8EJkBLPk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/threads/part1/threadsbasics/part5" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java projects\DesignPattern-master\Multithreads\src\main\java\com\threads\part1\threadsbasics\part3" />
+      <recent name="G:\Java projects\DesignPattern-master\Multithreads\src\main\java\com\threads\part1\threadsbasics\part1" />
+      <recent name="G:\Java projects\DesignPattern-master\Multithreads\src\main\java\com\threads\part1\threadsbasics\part2" />
+      <recent name="G:\Java projects\DesignPattern-master\Multithreads\src\main\java\com\threads\part1\patternsearch\sample" />
+      <recent name="G:\Java projects\DesignPattern-master\Multithreads\src\main\java\com\threads\part1\patternsearch" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c52798d1-b1ac-4136-a06f-40ce0ee0539d" name="Default Changelist" comment="" />
+      <created>1592245584421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592245584421</updated>
+      <workItem from="1592245589212" duration="1808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="9" key="SettingsEditor" timestamp="1592245888007">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="9" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1592245888007" />
+  </component>
+</project>
